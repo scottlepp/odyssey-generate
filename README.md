@@ -15,4 +15,5 @@ Just download the index.html and edit the following
 -baseurl: "Enter base map url here (Optional)"
 ``` 
 
-## See Example folder for working example
+### See example folder for this working example
+http://bl.ocks.org/scottlepp/raw/909f190d01be2566115c/
