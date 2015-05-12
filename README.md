@@ -15,5 +15,8 @@ Just download the index.html and edit the following
 -baseurl: "Enter base map url here (Optional)"
 ``` 
 
-### See example folder for this working example
+#### See example folder for this working example
 http://bl.ocks.org/scottlepp/raw/909f190d01be2566115c/
+
+#### Note
+Navigation on the map (clicking points) is also linked to the slides providing an additional way to nagivate the tour.
