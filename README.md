@@ -1,7 +1,10 @@
 # odyssey-generate
 Generate an Odyssey Story Map from a CartoDB Map.
 
-## How?  Easy
+## Prerequisite
+A CartoDB map (go create one, it's easy!)  http://cartodb.com/
+
+## Steps
 Just download the index.html and edit the following
 
 ``` 
